@@ -6,4 +6,4 @@ install expressjs
 install nodemon 
 Run :
  nodemon server.js
- using postman use can verify all the api.
+ using postman you can verify all the api.
